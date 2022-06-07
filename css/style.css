@@ -56,14 +56,14 @@ section.normal{
     color: black;
 }
 section.imagem{
-    background-color: rgb(59, 59, 59);
+    
     color: white;
     background-image: url('../imagens/background001.jpg');
     background-size: cover;
     background-attachment: fixed;
 }
 section.imagem p{
-    
+    background-color: rgb(59, 59, 59);
     display: inline-block;
     width: 400px;
     background-color: rgba(0, 0, 0, 0.212);
