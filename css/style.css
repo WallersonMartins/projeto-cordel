@@ -57,7 +57,7 @@ section.normal{
 }
 section.imagem{
     
-    color: white;
+    
     background-image: url('../imagens/background001.jpg');
     background-size: cover;
     background-attachment: fixed;
@@ -65,7 +65,7 @@ section.imagem{
 section.imagem p{
     
     display: inline-block;
-    max-width: 400px;
+    max-width: 200px;
     background-color: rgba(0, 0, 0, 0.212);
   
     
